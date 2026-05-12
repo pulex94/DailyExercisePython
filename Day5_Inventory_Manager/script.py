@@ -19,7 +19,10 @@ with open("inventory.txt", "r") as f:
         if int(element["quantity"]) > int(element["min_stock"]):
             print(f"{element["product"]}")
 # 4. Calculate how many units need to be ordered (min_stock - quantity)
-
+    for element in inventory:
+        toOrder = int(element["min_stock"]) - int(element["quantity"])
+        if toOrder > 0 :
+            print(f"{element["product"]} - To order: {toOrder}")   
 # 4. Calculate how many units need to be ordered (min_stock - quantity)
 # 5. Calculate the reorder cost for each product (units_to_order * price)
 # 6. Calculate the total reorder cost
