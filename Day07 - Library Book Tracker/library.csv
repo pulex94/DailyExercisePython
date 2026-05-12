@@ -1,0 +1,19 @@
+member_name,book_title,genre,pages,returned
+Alice,The Great Gatsby,Fiction,180,yes
+Bob,Clean Code,Tech,431,yes
+Alice,Dune,Sci-Fi,412,yes
+Carol,Sapiens,History,443,yes
+Bob,The Pragmatic Programmer,Tech,352,no
+David,1984,Fiction,328,yes
+Alice,Foundation,Sci-Fi,244,no
+Carol,A Brief History of Time,Science,212,yes
+Eve,The Hobbit,Fantasy,310,yes
+David,Brave New World,Fiction,311,yes
+Bob,Harry Potter,Fantasy,502,yes
+Eve,Cosmos,Science,365,no
+Carol,The Lean Startup,Tech,299,yes
+Alice,Fahrenheit 451,Fiction,158,yes
+David,Ender's Game,Sci-Fi,226,no
+Eve,Atomic Habits,Self-Help,320,yes
+Carol,The Silmarillion,Fantasy,365,no
+Bob,Meditations,Philosophy,254,yes
