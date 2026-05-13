@@ -1,0 +1,5 @@
+Bob: 1539
+Carol: 1319
+Eve: 995
+Alice: 994
+David: 865

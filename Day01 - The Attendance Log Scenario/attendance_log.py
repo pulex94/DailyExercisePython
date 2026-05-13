@@ -1,4 +1,4 @@
-# open file
+
 # -Read the file
 with open("registro.txt", "r") as file:
 

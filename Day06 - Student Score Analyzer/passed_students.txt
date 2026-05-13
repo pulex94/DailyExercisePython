@@ -1,0 +1,6 @@
+Alex:78
+Maria:92
+Sophie:88
+Emma:73
+Daniel:99
+Sara:81

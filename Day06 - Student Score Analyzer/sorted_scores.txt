@@ -1,0 +1,8 @@
+Daniel:99
+Maria:92
+Sophie:88
+Sara:81
+Alex:78
+Emma:73
+John:65
+Luca:55
