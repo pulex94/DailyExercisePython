@@ -1,0 +1,19 @@
+guest,hotel,nights,price_per_night,paid
+Alice,Grand Palace,3,120,yes
+Bob,Sea View,5,85,yes
+Carol,Grand Palace,2,120,no
+David,Mountain Inn,4,95,yes
+Alice,Sea View,2,85,no
+Eve,Mountain Inn,6,95,yes
+Bob,Grand Palace,1,120,yes
+Carol,Sea View,3,85,yes
+David,Grand Palace,2,120,no
+Eve,Sea View,4,85,yes
+Alice,Mountain Inn,3,95,yes
+Bob,Mountain Inn,2,95,no
+Carol,Mountain Inn,5,95,yes
+David,Sea View,1,85,yes
+Eve,Grand Palace,3,120,yes
+Alice,Grand Palace,2,120,yes
+Bob,Sea View,3,85,yes
+Carol,Grand Palace,4,120,no
