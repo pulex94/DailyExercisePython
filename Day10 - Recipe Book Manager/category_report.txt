@@ -1,0 +1,5 @@
+Category: Italian Recipes -> Pasta Carbonara, Margherita Pizza
+Category: Salad Recipes -> Caesar Salad, Greek Salad
+Category: Asian Recipes -> Chicken Curry, Sushi Roll
+Category: Dessert Recipes -> Tiramisu, Cheesecake
+Category: American Recipes -> Beef Stew, Pancakes
