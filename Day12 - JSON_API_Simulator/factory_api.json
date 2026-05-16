@@ -1,0 +1,16 @@
+{
+    "factory": "Industria Nord Italia",
+    "timestamp": "2026-05-15 08:00:00",
+    "machines": [
+        {"id": "M001", "name": "Saldatrice_1", "temperature": 62, "pressure": 4.5, "status": "running"},
+        {"id": "M002", "name": "Pressa_2", "temperature": 45, "pressure": 3.2, "status": "running"},
+        {"id": "M003", "name": "Tornio_3", "temperature": 78, "pressure": 6.1, "status": "running"},
+        {"id": "M004", "name": "Saldatrice_2", "temperature": 50, "pressure": 3.8, "status": "running"},
+        {"id": "M005", "name": "Fresatrice_1", "temperature": 38, "pressure": 2.9, "status": "running"},
+        {"id": "M006", "name": "Pressa_3", "temperature": 91, "pressure": 7.2, "status": "running"}
+    ],
+    "limits": {
+        "max_temperature": 70,
+        "max_pressure": 6.0
+    }
+}

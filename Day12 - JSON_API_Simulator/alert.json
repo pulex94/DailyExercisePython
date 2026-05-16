@@ -1,0 +1,22 @@
+{
+  "OK": {
+    "total": 4,
+    "machines": [
+      "Saldatrice_1",
+      "Pressa_2",
+      "Saldatrice_2",
+      "Fresatrice_1"
+    ]
+  },
+  "ALERT": {
+    "total": 0,
+    "machines": []
+  },
+  "CRITICAL": {
+    "total": 2,
+    "machines": [
+      "Tornio_3",
+      "Pressa_3"
+    ]
+  }
+}
