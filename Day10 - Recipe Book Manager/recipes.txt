@@ -1,0 +1,60 @@
+name: Pasta Carbonara
+category: Italian
+ingredients: pasta, eggs, bacon, parmesan, pepper
+calories: 650
+time_minutes: 25
+---
+name: Caesar Salad
+category: Salad
+ingredients: romaine, croutons, parmesan, caesar dressing
+calories: 320
+time_minutes: 15
+---
+name: Margherita Pizza
+category: Italian
+ingredients: dough, tomato sauce, mozzarella, basil
+calories: 800
+time_minutes: 40
+---
+name: Greek Salad
+category: Salad
+ingredients: tomato, cucumber, olives, feta, onion
+calories: 280
+time_minutes: 10
+---
+name: Chicken Curry
+category: Asian
+ingredients: chicken, curry paste, coconut milk, rice
+calories: 720
+time_minutes: 45
+---
+name: Sushi Roll
+category: Asian
+ingredients: rice, nori, salmon, avocado, soy sauce
+calories: 350
+time_minutes: 60
+---
+name: Tiramisu
+category: Dessert
+ingredients: mascarpone, eggs, coffee, ladyfingers, cocoa
+calories: 540
+time_minutes: 30
+---
+name: Cheesecake
+category: Dessert
+ingredients: cream cheese, sugar, eggs, graham crackers, butter
+calories: 680
+time_minutes: 90
+---
+name: Beef Stew
+category: American
+ingredients: beef, potatoes, carrots, onion, broth
+calories: 580
+time_minutes: 120
+---
+name: Pancakes
+category: American
+ingredients: flour, eggs, milk, butter, maple syrup
+calories: 450
+time_minutes: 20
+---

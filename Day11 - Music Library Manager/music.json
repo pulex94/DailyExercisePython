@@ -1,0 +1,14 @@
+[
+  {"artist": "Arctic Monkeys", "title": "R U Mine?", "genre": "Rock", "duration_seconds": 203, "plays": 320},
+  {"artist": "Arctic Monkeys", "title": "Do I Wanna Know?", "genre": "Rock", "duration_seconds": 272, "plays": 415},
+  {"artist": "Daft Punk", "title": "Get Lucky", "genre": "Electronic", "duration_seconds": 248, "plays": 510},
+  {"artist": "Daft Punk", "title": "Harder Better Faster", "genre": "Electronic", "duration_seconds": 224, "plays": 380},
+  {"artist": "Kendrick Lamar", "title": "HUMBLE.", "genre": "Hip-Hop", "duration_seconds": 177, "plays": 290},
+  {"artist": "Kendrick Lamar", "title": "Alright", "genre": "Hip-Hop", "duration_seconds": 219, "plays": 175},
+  {"artist": "Radiohead", "title": "Creep", "genre": "Alternative", "duration_seconds": 238, "plays": 445},
+  {"artist": "Radiohead", "title": "Karma Police", "genre": "Alternative", "duration_seconds": 262, "plays": 190},
+  {"artist": "Billie Eilish", "title": "bad guy", "genre": "Pop", "duration_seconds": 194, "plays": 620},
+  {"artist": "Billie Eilish", "title": "Happier Than Ever", "genre": "Pop", "duration_seconds": 295, "plays": 310},
+  {"artist": "The Weeknd", "title": "Blinding Lights", "genre": "Pop", "duration_seconds": 200, "plays": 580},
+  {"artist": "The Weeknd", "title": "Save Your Tears", "genre": "Pop", "duration_seconds": 215, "plays": 260}
+]
