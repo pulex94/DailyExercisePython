@@ -1,0 +1,16 @@
+name,plan,sessions,monthly_fee,active
+Alice,Premium,12,80,yes
+Bob,Basic,8,40,yes
+Carol,Premium,15,80,yes
+David,Basic,3,40,no
+Eve,Premium,10,80,yes
+Frank,Basic,6,40,yes
+Grace,Premium,18,80,yes
+Henry,Basic,2,40,no
+Iris,Standard,9,60,yes
+Jack,Standard,11,60,yes
+Karen,Premium,7,80,yes
+Leo,Basic,4,40,no
+Mia,Standard,14,60,yes
+Noah,Premium,20,80,yes
+Olivia,Basic,5,40,yes

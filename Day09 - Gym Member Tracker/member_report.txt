@@ -1,0 +1,15 @@
+Noah | Sessions: 20 | Revenue: 80€
+Grace | Sessions: 18 | Revenue: 80€
+Carol | Sessions: 15 | Revenue: 80€
+Mia | Sessions: 14 | Revenue: 60€
+Alice | Sessions: 12 | Revenue: 80€
+Jack | Sessions: 11 | Revenue: 60€
+Eve | Sessions: 10 | Revenue: 80€
+Iris | Sessions: 9 | Revenue: 60€
+Bob | Sessions: 8 | Revenue: 40€
+Karen | Sessions: 7 | Revenue: 80€
+Frank | Sessions: 6 | Revenue: 40€
+Olivia | Sessions: 5 | Revenue: 40€
+Leo | Sessions: 4 | Revenue: 40€
+David | Sessions: 3 | Revenue: 40€
+Henry | Sessions: 2 | Revenue: 40€
