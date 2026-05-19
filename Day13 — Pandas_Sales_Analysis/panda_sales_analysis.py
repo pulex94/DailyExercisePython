@@ -4,13 +4,20 @@ import pandas as pd
 df = pd.read_csv("sales.csv")
 # Print the first 5 rows
 print(df.head())
-# Print basic info
+# # Print basic info
 print(df.info())
 # Add a new column "revenue" (quantity * price)
 df["revenue"] = df.quantity * df.price
 # Find the product with highest revenue
-print(df.idxmax())
+highest_revenue = df["revenue"].idxmax()
+highest_revenue_name = df.loc[highest_revenue, "product"]
+print(highest_revenue_name)
 # Find the product with lowest revenue
-print(df.idxmin())
+lowest_revenue = df["revenue"].idxmin()
+lowest_revenue_name = df.loc[lowest_revenue, "product"]
+print(lowest_revenue_name)
 # Calculate total revenue per category
-print(df.groupby("category")["revenue"].sum())
+category_revenue = df.groupby("category")["revenue"].sum()
+print(category_revenue)
+# Print a clean summary report
+print(f"Summary:\nProduct with most sell: {highest_revenue_name}\nProduct with lowest sells: {lowest_revenue_name}")
