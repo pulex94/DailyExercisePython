@@ -1,0 +1,6 @@
+name,age,salary,department,email
+Alice Brown,28.0,52000.0,Engineering,alice@company.com
+Frank Johnson,38.0,46714.28571428572,Engineering,frank@company.com
+Grace Lee,24.0,32000.0,Hr,
+Henry Taylor,29.0,41000.0,Marketing,henry@company.com
+Jack Thompson,33.0,36000.0,Hr,jack@company.com

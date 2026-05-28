@@ -1,0 +1,11 @@
+name,age,salary,department,email
+Alice Brown,28,52000,Engineering,alice@company.com
+bob smith,,38000,marketing,BOB@COMPANY.COM
+Alice Brown,28,52000,Engineering,alice@company.com
+Charlie Davis,abc,61000,Engineering,charlie@company.com
+,35,45000,Marketing,eve@company.com
+Frank Johnson,38,,engineering,frank@company.com
+Grace Lee,24,32000,HR,
+Henry Taylor,29,41000,Marketing,henry@company.com
+Isabella Anderson,200,67000,Engineering,isabella@company.com
+Jack Thompson,33,36000,hr,jack@company.com
