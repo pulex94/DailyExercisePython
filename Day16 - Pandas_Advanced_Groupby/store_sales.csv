@@ -1,0 +1,13 @@
+store,city,category,product,quantity,price,date
+Store_A,Milano,Electronics,Laptop,3,899.99,2026-01-15
+Store_A,Milano,Electronics,Mouse,15,29.99,2026-01-20
+Store_A,Milano,Furniture,Chair,8,189.99,2026-02-10
+Store_B,Roma,Electronics,Monitor,5,399.99,2026-01-18
+Store_B,Roma,Furniture,Desk,6,249.99,2026-02-05
+Store_B,Roma,Electronics,Keyboard,12,79.99,2026-02-15
+Store_C,Torino,Furniture,Bookshelf,4,149.99,2026-01-25
+Store_C,Torino,Electronics,Headphones,9,149.99,2026-02-20
+Store_C,Torino,Furniture,Chair,11,189.99,2026-03-10
+Store_A,Milano,Electronics,Monitor,4,399.99,2026-03-05
+Store_B,Roma,Furniture,Chair,7,189.99,2026-03-15
+Store_C,Torino,Electronics,Laptop,2,899.99,2026-03-20
