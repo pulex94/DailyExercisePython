@@ -1,0 +1,11 @@
+order_id,customer_id,product,quantity,order_date
+1001,1,Mouse,2,2025-01-03
+1002,2,Keyboard,1,2025-01-05
+1003,1,Monitor,1,2025-01-10
+1004,3,Headset,3,2025-02-01
+1005,4,Laptop,1,2025-02-11
+1006,2,Mouse,4,2025-02-15
+1007,5,Keyboard,2,2025-03-01
+1008,1,Laptop,1,2025-03-04
+1009,3,Mouse,1,2025-03-12
+1010,4,Monitor,2,2025-03-20
