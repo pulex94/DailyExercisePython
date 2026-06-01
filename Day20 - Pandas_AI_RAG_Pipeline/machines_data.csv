@@ -1,0 +1,9 @@
+machine_id,name,type,temperature,pressure,vibration,hours_running,last_maintenance
+M001,Saldatrice_1,Welder,62,4.5,0.8,1250,2026-01-15
+M002,Pressa_2,Press,45,3.2,0.3,890,2026-02-20
+M003,Tornio_3,Lathe,78,6.1,1.2,2100,2025-12-10
+M004,Fresatrice_1,Milling,91,7.8,1.9,3200,2025-11-05
+M005,Saldatrice_2,Welder,50,3.8,0.5,1100,2026-03-01
+M006,Pressa_3,Press,38,2.9,0.2,650,2026-03-15
+M007,Tornio_4,Lathe,85,6.8,1.5,2800,2025-10-20
+M008,Compressore_1,Compressor,55,5.1,0.7,1800,2026-01-30

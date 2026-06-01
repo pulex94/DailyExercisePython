@@ -1,0 +1,80 @@
+# 🔧 CRITICAL MACHINES REPORT
+
+---
+
+## ⚠️ MAINTENANCE ALERT — 3 MACHINES REQUIRE IMMEDIATE INTERVENTION
+
+---
+
+### PRIORITY ORDER FOR INTERVENTIONS
+
+---
+
+### 🔴 PRIORITY 1 — Fresatrice_1 (M004)
+**Type:** Milling | **Status:** CRITICAL
+
+| Parameter | Value |
+|---|---|
+| Temperature | 91°C 🔴 |
+| Pressure | 7.8 bar 🔴 |
+| Vibration | 1.9 mm/s 🔴 |
+| Hours Running | 3,200 hrs |
+| Last Maintenance | 2025-11-05 |
+
+**⚠️ WARNING: Days since last maintenance EXCEEDS 2000-hour limit.**
+
+> **Recommendation:** Shut down immediately. Inspect spindle, bearings, and cooling system. High risk of catastrophic failure.
+
+**Estimated Downtime Risk:** 🔴 **HIGH — 48 to 72 hours**
+
+---
+
+### 🔴 PRIORITY 2 — Tornio_4 (M007)
+**Type:** Lathe | **Status:** CRITICAL
+
+| Parameter | Value |
+|---|---|
+| Temperature | 85°C 🔴 |
+| Pressure | 6.8 bar 🟠 |
+| Vibration | 1.5 mm/s 🟠 |
+| Hours Running | 2,800 hrs |
+| Last Maintenance | 2025-10-20 |
+
+**⚠️ WARNING: Days since last maintenance EXCEEDS 2000-hour limit.**
+
+> **Recommendation:** Schedule urgent stop. Check lubrication, spindle alignment, and thermal sensors before further operation.
+
+**Estimated Downtime Risk:** 🟠 **MEDIUM-HIGH — 24 to 48 hours**
+
+---
+
+### 🔴 PRIORITY 3 — Tornio_3 (M003)
+**Type:** Lathe | **Status:** CRITICAL
+
+| Parameter | Value |
+|---|---|
+| Temperature | 78°C 🟠 |
+| Pressure | 6.1 bar 🟡 |
+| Vibration | 1.2 mm/s 🟡 |
+| Hours Running | 2,100 hrs |
+| Last Maintenance | 2025-12-10 |
+
+**⚠️ WARNING: Days since last maintenance EXCEEDS 2000-hour limit.**
+
+> **Recommendation:** Plan maintenance within 24 hours. Verify cooling efficiency and bearing wear before failure occurs.
+
+**Estimated Downtime Risk:** 🟡 **MEDIUM — 12 to 24 hours**
+
+---
+
+## 📋 SUMMARY TABLE
+
+| Priority | Machine | Hours | Temp | Downtime Risk |
+|---|---|---|---|---|
+| 1 | Fresatrice_1 (M004) | 3,200 ⚠️ | 91°C | 🔴 HIGH |
+| 2 | Tornio_4 (M007) | 2,800 ⚠️ | 85°C | 🟠 MEDIUM-HIGH |
+| 3 | Tornio_3 (M003) | 2,100 ⚠️ | 78°C | 🟡 MEDIUM |
+
+---
+
+> **All three machines exceed the 2000-hour operational limit. Immediate action is required to prevent production loss and safety hazards.**

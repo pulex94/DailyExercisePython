@@ -1,0 +1,35 @@
+[
+  {
+    "machine_id": "M003",
+    "name": "Tornio_3",
+    "type": "Lathe",
+    "temperature": 78,
+    "pressure": 6.1,
+    "vibration": 1.2,
+    "hours_running": 2100,
+    "last_maintenance": "2025-12-10",
+    "status": "CRITICAL"
+  },
+  {
+    "machine_id": "M004",
+    "name": "Fresatrice_1",
+    "type": "Milling",
+    "temperature": 91,
+    "pressure": 7.8,
+    "vibration": 1.9,
+    "hours_running": 3200,
+    "last_maintenance": "2025-11-05",
+    "status": "CRITICAL"
+  },
+  {
+    "machine_id": "M007",
+    "name": "Tornio_4",
+    "type": "Lathe",
+    "temperature": 85,
+    "pressure": 6.8,
+    "vibration": 1.5,
+    "hours_running": 2800,
+    "last_maintenance": "2025-10-20",
+    "status": "CRITICAL"
+  }
+]
